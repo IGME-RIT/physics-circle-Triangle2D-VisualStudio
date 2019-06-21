@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level7\physics-circle-triangle2d-mastervs2019\circletriangle2d\main.cpp(591): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\profiles\njp2424\desktop\physics\level7\physics-circle-triangle2d-mastervs2019\circletriangle2d\main.cpp(624): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\profiles\njp2424\desktop\physics\level7\physics-circle-triangle2d-mastervs2019\circletriangle2d\main.cpp(640): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CircleTriangle2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level7\physics-circle-Triangle2D-masterVS2019\CircleTriangle2D\Debug\CircleTriangle2D.exe
